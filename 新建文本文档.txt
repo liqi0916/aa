@@ -174,13 +174,5 @@ git checkout branch_1.0/master 切换到branch_1.0/master分支
 du -hs
 
 -----------------------------------------------------------
-mkdir WebApp
-cd WebApp
-git init
-touch README
-git add README
-git commit -m 'first commit'
-git remote add origin git@github.com:daixu/WebApp.git
-git push -u origin master
 
  
